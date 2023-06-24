@@ -1,7 +1,7 @@
 {
   "name": "lesson_1",
   "version": "1.0.0",
-  "description": "",
+  "description": "https://ibb.co/0mr9ztP\r # Отримуємо контакт по id і виводимо у консоль об'єкт контакту або null, якщо контакту з таким id не існує.\r https://ibb.co/Dfkr6gM\r # Додаємо контакт та виводимо в консоль об'єкт новоствореного контакту\r https://ibb.co/mb71n9r\r # Видаляємо контакт та виводимо в консоль об'єкт видаленого контакту або null, якщо контакту з таким id не існує.\r https://ibb.co/mS3HtCw",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -22,5 +22,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ionytch/node_lesson_1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ionytch/node_lesson_1/issues"
+  },
+  "homepage": "https://github.com/Ionytch/node_lesson_1#readme"
 }
